@@ -1,0 +1,19 @@
+
+PROJECT - Guess the Card Game
+
+* Trying to guess the correct matching pairs is the main concept of the game.
+* The game has a total of 18 cards of 9 pairs.
+* Cartoon images are used in this game.
+
+GAME DESIGN:
+
+The game was designed such that the
+
+=> User will be first displayed with the rules in an alert box.
+=> A timer of 8 seconds is used in which the user can see the order of cards and get ready for the game.
+=> User can see a message whether the guess is correct or wrong.
+=> User will be provided with 3 lifelines which will be decremented for each wrong guess.
+=> User will have score which will be incremented for each correct guess.
+=> Total score of the game is 9.
+=> If user scored the total of 9, an alert box with the message "Hurray! You WON the game!" is displayed.
+=> If all the lifelines are gone, an alert box with the message "GAME OVER!" is displayed.
