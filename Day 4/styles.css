@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+h1 {
+    font-size: x-large;
+}
+p {
+    font-size: larger;
+    font-style:inherit;
+}
+button {
+    padding: 12px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 18px;
+}
