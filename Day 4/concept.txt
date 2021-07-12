@@ -1,0 +1,13 @@
+Concept of the assignment is:
+
+  i) to create a webpage with a background color
+ ii) to ask for user's name
+iii) to show the user name with some words after button click action
+
+Add ons:
+
+When user clicks the button,
+  i) a sentence "Dear ---, Welcome to Losshika's page" will appear with increased size and different color.
+ ii) background color is changed.
+iii) color of the button is changed.
+ iv) button text changes from "register" to "REGISTERED".
